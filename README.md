@@ -4,8 +4,6 @@
 
 - **Demo:** https://heiswayi.github.io/the-plain/
 
-![SCREENSHOT](https://i.imgur.com/FITKN1H.png)
-
 
 Now copy some of the settings from this repo's *_config.yml* file to your own, and modify them.
 
